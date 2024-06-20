@@ -1,3 +1,7 @@
+# Purpose
+
+This project demonstrates that MUI libraries and possibly other vast React libraries do NOT work on newer version of React Native >= 0.72.x using [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
